@@ -12,7 +12,7 @@ import android.widget.Button;
 import android.widget.SeekBar;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
-
+//sdfsdfdsf
     private SeekBar seek_Item;
     private Button kaishi;
     private Button zanting;
